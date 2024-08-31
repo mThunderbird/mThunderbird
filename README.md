@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Dragostin Ivanov from Bulgaria, 
+currently a first year Computer Science Bachelor at TU\Delft
+
+I'm interested in AI, Cybersecurity, and Robotics. I'm looking forward to working
+on interesting collaborative projects!
+
+⚡ Fun fact: I went to a Robotoics workshop to create a very simple flipperbot. It was awesome!!!
+
 <!--
 **mThunderbird/mThunderbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
