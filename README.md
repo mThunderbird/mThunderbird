@@ -1,29 +1,30 @@
 <h1 align="center">Hi there, I'm Dragostin 👋</h1>
 
 <p align="center">
-  🌍 CS Student @ TU Delft &nbsp;|&nbsp; 🧠 NatureTech Enthusiast &nbsp;|&nbsp; 🚀 Always Building & Learning
+   CS Student @ TU Delft &nbsp;|&nbsp; Tech-for-Nature Enthusiast &nbsp;|&nbsp; Always Building & Learning
 </p>
 
 ---
 
-### 🧭 About Me
+### 👨‍💻 About Me  
 
-I'm a first-year Computer Science and Engineering student at TU Delft, passionate about using technology to **solve real-world problems** — especially those at the intersection of **nature, sustainability, and innovation**.
+I’m a Computer Science student at TU Delft who’s passionate about building tech that actually makes a difference — especially where **sustainability, nature, and innovation** meet.  
 
-My vision for my future career is to design and build systems that optimise and enhance existing processes — whether it's improving how we grow tomatoes 🌱 or streamlining how people interact with tech.
+Long-term, I see myself as a **Tech Lead / Solutions Architect**, leading the design of systems that optimise and improve the way things work — whether that’s smarter farming 🌱 or safer autonomous driving.
 
-💡 I am interested in:
-- Tech-for-nature & sustainability
-- Systems thinking & problem-solving
-- Algorithms, optimisation, and infrastructure
-- Creative tools & web applications
+For now, I’m focused on **getting my hands dirty**: solving tough problems, working in collaborative teams, and learning as much as possible from real projects.  
+
+Some of the areas I’m most curious about right now:  
+- Tech for nature & sustainability
+- Robotics and AI optimisation
+- Systems thinking & problem solving
 
 ---
 
-### 🛠️ Tech & Tools I've used
+### 🛠️ Tech & Tools  
 
 ```txt
-Languages:   C++ • C# • Java • JavaScript • HTML • CSS
-Frameworks:  SDL2 • Spring • React • Unity
-Tools:       Figma • Git • Capcut • Markdown
-Concepts:    Design Patterns • Graph Theory • Asynchronous Programming
+Languages:   Java • C++ • JavaScript • Python • Scala • HTML/CSS  
+Frameworks:  React • Spring • SDL2 • Unity  
+Tools:       Git • Figma • UML • Markdown • Capcut  
+Concepts:    Agile development • Design patterns • Functional programming
