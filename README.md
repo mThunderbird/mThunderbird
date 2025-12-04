@@ -4,7 +4,6 @@
    CS Student @ TU Delft &nbsp;|&nbsp; Excited about ML and Data Science &nbsp;|&nbsp; Curious how real software is created end-to-end
 </p>
 
----
 
 ### About Me  
 
@@ -19,7 +18,6 @@ Some of the areas I’m most curious about right now:
 - Robotics and AI optimisation
 - Systems thinking & problem solving
 
----
 
 ### Tech & Tools  
 
