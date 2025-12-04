@@ -12,7 +12,7 @@ I’m a Computer Science student at TU Delft who’s passionate about building t
 
 Long-term, I see myself as a Tech Lead / Solutions Architect, leading the design of systems that optimise and improve the way things work — whether that’s smarter farming or safer autonomous driving.
 
-For now, I’m focused on getting my hands dirty: solving tough problems, working in collaborative teams, and learning as much as possible from real projects and experts.  
+For now, I just want to get my hands dirty: solving tough problems, working in collaborative teams, and learning as much as possible from real projects and experts.  
 
 Some of the areas I’m most curious about right now:  
 - Machine learning, Data Mining
