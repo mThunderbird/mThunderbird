@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Drago </h1>
+<h1 align="center">Hi, I'm Drago </h1>
 
 <p align="center">
    CS Student @ TU Delft &nbsp;|&nbsp; Excited about ML and Data Science &nbsp;|&nbsp; Curious how real software is created end-to-end
